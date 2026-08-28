@@ -1,1 +1,452 @@
-
+[
+  {
+    "id": "1",
+    "name": "Monumen Nasional (Monas)",
+    "location": "Jakarta",
+    "category": "Budaya",
+    "description": "Ikon kebanggaan Indonesia dengan cawan emas di puncak dan museum sejarah perjuangan bangsa.",
+    "image": "https://i.pinimg.com/1200x/1b/87/bf/1b87bf9249959c31fe3cdbb312674900.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "2",
+    "name": "Kota Tua Jakarta & Fatahillah",
+    "location": "Jakarta",
+    "category": "Budaya",
+    "description": "Pusat sejarah Batavia dengan bangunan kolonial megah, sepeda ontel warna-warni, dan museum.",
+    "image": "https://i.pinimg.com/1200x/05/88/0d/05880df414a4426c52e32434a58c0ebb.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "3",
+    "name": "Taman Mini Indonesia Indah (TMII)",
+    "location": "Jakarta",
+    "category": "Budaya",
+    "description": "Taman rekreasi edukatif yang merangkum anjungan rumah adat dan kebudayaan 38 provinsi di Nusantara.",
+    "image": "https://i.pinimg.com/736x/de/2e/4d/de2e4d4da7c0371410c8ef16eea759ce.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "4",
+    "name": "Ancol & Dunia Fantasi (Dufan)",
+    "location": "Jakarta",
+    "category": "Alam",
+    "description": "Pusat hiburan tepi pantai terbesar di Jakarta dengan puluhan wahana permainan seru dan atraksi laut.",
+    "image": "https://i.pinimg.com/736x/da/fd/d7/dafdd7b21ebdef870c79c4b7059b9d82.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "5",
+    "name": "Kepulauan Seribu ",
+    "location": "Jakarta",
+    "category": "Pantai",
+    "description": "Gugusan pulau tropis di teluk utara Jakarta dengan pantai pasir putih dan spot snorkeling jernih.",
+    "image": "https://i.pinimg.com/1200x/eb/73/f2/eb73f251c72cf29988a2acf79dcc311e.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "6",
+    "name": "Masjid Istiqlal",
+    "location": "Jakarta",
+    "category": "Budaya",
+    "description": "Simbol toleransi dan kerukunan beragama Indonesia yang berdiri berdampingan di pusat ibu kota.",
+    "image": "https://i.pinimg.com/1200x/ce/07/b2/ce07b2718fc342baf9010e39d095ca84.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "7",
+    "name": "Taman Margasatwa Ragunan",
+    "location": "Jakarta",
+    "category": "Alam",
+    "description": "Kebun binatang legendaris seluas 140 hektar yang dihuni ribuan satwa langka dan hutan kota yang rindang.",
+    "image": "https://i.pinimg.com/736x/f4/2a/69/f42a69ff0bfc318253b43da3301d9676.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "8",
+    "name": "Pantai Indah Kapuk 2 (PIK 2)",
+    "location": "Jakarta",
+    "category": "Pantai",
+    "description": "Kawasan pesisir modern dengan pantai pasir putih buatan, pusat kuliner tepi laut, dan hutan mangrove.",
+    "image": "https://i.pinimg.com/736x/d4/8f/60/d48f6000c8769bf4fa18501d699b3d14.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "9",
+    "name": "Kawah Putih Ciwidey",
+    "location": "Bandung",
+    "category": "Alam",
+    "description": "Danau kawah vulkanik berwarna putih kehijauan yang eksotis dan berhawa sejuk di selatan Bandung.",
+    "image": "https://i.pinimg.com/736x/67/4a/c7/674ac79ec8256f19a55678e905adcebe.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "10",
+    "name": "Tangkuban Perahu",
+    "location": "Bandung",
+    "category": "Gunung",
+    "description": "Gunung berapi legendaris dengan pemandangan kawah raksasa yang megah dan kepulan asap belerang.",
+    "image": "https://i.pinimg.com/736x/22/34/ae/2234aecc56f47b83caeb45e562446900.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "11",
+    "name": "Jalan Braga & Gedung Sate",
+    "location": "Bandung",
+    "category": "Budaya",
+    "description": "Pusat sejarah Kota Bandung dengan arsitektur kolonial klasik, kafe estetik, dan ikon Gedung Sate.",
+    "image": "https://i.pinimg.com/736x/45/ac/70/45ac705d07621345dbc7220fc1072b55.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "12",
+    "name": "Tebing Keraton",
+    "location": "Bandung",
+    "category": "Alam",
+    "description": "Spot terbaik menikmati matahari terbit dengan panorama lautan kabut di atas hutan pinus Bandung.",
+    "image": "https://i.pinimg.com/736x/d5/8a/94/d58a94978f5013a61367c49cecbd5d37.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "13",
+    "name": "Ranca Upas Ciwidey",
+    "location": "Bandung",
+    "category": "Alam",
+    "description": "Bumi perkemahan asri di Bandung Selatan dengan penangkaran rusa dan kolam air panas alami.",
+    "image": "https://i.pinimg.com/736x/54/20/45/54204559f43e3174b6e384f0ebcb7e9b.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "14",
+    "name": "Dusun Bambu Lembang",
+    "location": "Bandung",
+    "category": "Alam",
+    "description": "Ekowisata keluarga bernuansa Sunda dengan danau buatan indah dan restoran saung bambu tepi air.",
+    "image": "https://i.pinimg.com/736x/e6/6c/e2/e66ce2f524496c32909b08d701a55a5d.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "15",
+    "name": "Orchid Forest Cikole",
+    "location": "Bandung",
+    "category": "Alam",
+    "description": "Hutan pinus berhawa dingin dengan ribuan koleksi anggrek langka dan jembatan gantung gantung estetik.",
+    "image": "https://i.pinimg.com/1200x/57/8a/86/578a86eb72c5a2197a9896409586b659.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "16",
+    "name": "Situ Patenggang Pangalengan",
+    "location": "Bandung",
+    "category": "Danau",
+    "description": "Danau alami di ketinggian Ciwidey yang dikelilingi hamparan kebun teh hijau menyejukkan.",
+    "image": "https://i.pinimg.com/1200x/fd/cc/4c/fdcc4c2d2f9538f97511c8ec61a0e443.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "17",
+    "name": "Pantai Kuta Bali",
+    "location": "Bali",
+    "category": "Pantai",
+    "description": "Pantai pasir putih legendaris dengan sunset spektakuler dan ombak surfing favorit wisatawan.",
+    "image": "https://i.pinimg.com/736x/81/29/8b/81298b8f00ed436d92b8419c77ff9ca5.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "18",
+    "name": "Pura Luhur Uluwatu",
+    "location": "Bali",
+    "category": "Budaya",
+    "description": "Pura megah di puncak tebing karang tinggi menghadap samudra dengan pertunjukan Tari Kecak.",
+    "image": "https://i.pinimg.com/736x/40/03/3c/40033c5328cc7a029837c9a3f0f27024.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "19",
+    "name": "Pura Tanah Lot",
+    "location": "Bali",
+    "category": "Budaya",
+    "description": "Pura ikonik di atas bongkahan batu karang pantai dengan latar siluet matahari terbenam yang memukau.",
+    "image": "https://i.pinimg.com/736x/e5/46/51/e546513081c6e6ab1d95f60a20cad17e.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "20",
+    "name": "Tegalalang Rice Terrace Ubud",
+    "location": "Bali",
+    "category": "Alam",
+    "description": "Hamparan persawahan terasering berundak hijau asri khas Ubud dengan suasana pedesaan yang tenang.",
+    "image": "https://i.pinimg.com/1200x/34/09/aa/3409aa6b3d1d33d0fb48a50749abf098.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "21",
+    "name": "Kelingking Beach Nusa Penida",
+    "location": "Bali",
+    "category": "Pantai",
+    "description": "Tebing karst berbentuk T-Rex dengan pantai tersembunyi berpasir putih dan air laut biru toska.",
+    "image": "https://i.pinimg.com/1200x/2d/73/2d/2d732d39d450d7f0599324468af8f51b.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "22",
+    "name": "Pura Ulun Danu Beratan Bedugul",
+    "location": "Bali",
+    "category": "Danau",
+    "description": "Pura terapung di danau vulkanik Bedugul yang berhawa dingin dan dikelilingi perbukitan asri.",
+    "image": "https://i.pinimg.com/1200x/52/82/96/528296f3687b3cdf3a3aaead7c510b85.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "23",
+    "name": "Gunung Batur Kintamani",
+    "location": "Bali",
+    "category": "Gunung",
+    "description": "Gunung berapi aktif dengan kaldera spektakuler dan jalur trekking sunrise terbaik di Bali.",
+    "image": "https://i.pinimg.com/736x/ed/4a/0f/ed4a0fdee1ca5cc6819f862be0725cbc.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "24",
+    "name": "Desa Adat Penglipuran",
+    "location": "Bali",
+    "category": "Budaya",
+    "description": "Desa adat terbersih di dunia dengan tata ruang rumah tradisional khas Bali yang sangat lestari.",
+    "image": "https://i.pinimg.com/1200x/e1/c9/e6/e1c9e6d19df6472aa795c7348726feb5.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "25",
+    "name": "Pantai Melasti Ungasan",
+    "location": "Bali",
+    "category": "Pantai",
+    "description": "Pantai pasir putih eksotis dengan tebing kapur berbelok megah dan air laut biru jernih.",
+    "image": "https://i.pinimg.com/1200x/36/94/35/36943548154df996b5368f375f7f1a4d.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "26",
+    "name": "Jam Gadang Bukittinggi",
+    "location": "Sumatera Barat",
+    "category": "Budaya",
+    "description": "Menara jam bersejarah peninggalan era kolonial yang menjadi ikon utama Sumatera Barat.",
+    "image": "https://i.pinimg.com/1200x/0d/7e/51/0d7e51d10f421ea5382639fa709ddf76.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "27",
+    "name": "Ngarai Sianok",
+    "location": "Sumatera Barat",
+    "category": "Alam",
+    "description": "Lembah jurang curam nan hijau diapit dinding cadas setinggi 100 meter dengan pemandangan menawan.",
+    "image": "https://i.pinimg.com/736x/94/a7/39/94a7391b39362cb4ca99f294ab8e3369.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "28",
+    "name": "Lembah Harau Payakumbuh",
+    "location": "Sumatera Barat",
+    "category": "Alam",
+    "description": "Lembah indah berhiaskan tebing batu granit tegak lurus ratusan meter dan air terjun alami.",
+    "image": "https://i.pinimg.com/736x/1a/01/f7/1a01f7cfe350095cb45c71cd4a499580.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "29",
+    "name": "Istano Basa Pagaruyung",
+    "location": "Sumatera Barat",
+    "category": "Budaya",
+    "description": "Istana megah kerajaan Minangkabau dengan arsitektur rumah gadang berukir emas yang menawan.",
+    "image": "https://i.pinimg.com/736x/e1/b2/a9/e1b2a9f57d5be710c3a7e15548e7e7a1.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "30",
+    "name": "Danau Maninjau",
+    "location": "Sumatera Barat",
+    "category": "Danau",
+    "description": "Danau vulkanik luas di Agam yang terkenal dengan rute perjalanan 44 kelokan berpanorama elok.",
+    "image": "https://i.pinimg.com/736x/71/e3/f1/71e3f1d6a5d5b79ceb2bee69fb6c6d4b.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "31",
+    "name": "Kawasan Wisata Mandeh",
+    "location": "Sumatera Barat",
+    "category": "Pantai",
+    "description": "Gugusan pulau karang hijau dan teluk berair tenang yang dijuluki Raja Ampat Sumatera Barat.",
+    "image": "https://i.pinimg.com/736x/07/a1/0b/07a10b69d3f5a060c0c7922717974053.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "32",
+    "name": "Danau Singkarak",
+    "location": "Sumatera Barat",
+    "category": "Danau",
+    "description": "Danau terluas di Sumatera Barat yang menjadi habitat ikan Bilih endemik dan lintasan balap sepeda dunia.",
+    "image": "https://i.pinimg.com/1200x/44/04/90/44049019c72573eb7b3013e86b233624.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "33",
+    "name": "Jembatan Kelok 9",
+    "location": "Sumatera Barat",
+    "category": "Alam",
+    "description": "Mahakarya jembatan layang berkelok sembilan yang megah membelah lembah perbukitan hijau Payakumbuh.",
+    "image": "https://i.pinimg.com/1200x/5b/2d/13/5b2d1335c45ef70f49c005889b8f1d45.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "34",
+    "name": "Kepulauan Raja Ampat",
+    "location": "Papua",
+    "category": "Pantai",
+    "description": "Gugusan pulau karst toska dan terumbu karang kelas dunia yang menjadi surga penyelaman internasional.",
+    "image": "https://i.pinimg.com/736x/63/bb/17/63bb174a7db00c50c30d5bf0e4cec903.jpg",
+    "rating": "5.0"
+  },
+  {
+    "id": "35",
+    "name": "Lembah Baliem Wamena",
+    "location": "Papua",
+    "category": "Budaya",
+    "description": "Lembah pegunungan asri di jantung Papua dengan tradisi adat dan festival budaya suku Dani yang unik.",
+    "image": "https://i.pinimg.com/736x/d8/3b/37/d83b3746a0e1c5e815a525fbc877157b.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "36",
+    "name": "Danau Sentani Jayapura",
+    "location": "Papua",
+    "category": "Danau",
+    "description": "Danau luas di bawah Pegunungan Cycloop dengan pulau-pulau kecil berpenghuni dan seni lukis kulit kayu.",
+    "image": "https://i.pinimg.com/1200x/5b/af/9b/5baf9b6c43c8d0e179bd9b4b030b13ae.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "37",
+    "name": "Puncak Jaya (Carstensz Pyramid)",
+    "location": "Papua",
+    "category": "Gunung",
+    "description": "Puncak gunung tertinggi di Indonesia dengan lapisan gletser salju abadi tropis langka.",
+    "image": "https://i.pinimg.com/736x/fd/aa/ec/fdaaecf070e971c97ece07d775561bb1.jpg",
+    "rating": "5.0"
+  },
+  {
+    "id": "38",
+    "name": "Taman Nasional Teluk Cendrawasih",
+    "location": "Papua",
+    "category": "Alam",
+    "description": "Taman laut terbesar di Indonesia tempat menyelam dan berenang bersama hiu paus (whale shark) jinak.",
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600",
+    "rating": "4.9"
+  },
+  {
+    "id": "39",
+    "name": "Piaynemo Raja Ampat",
+    "location": "Papua",
+    "category": "Pantai",
+    "description": "Gugusan pulau karang kecil berair toska yang menjadi ikon visual keindahan tanah Papua.",
+    "image": "https://i.pinimg.com/1200x/1f/8e/5b/1f8e5b4f3d242cb05d39e8b2745e06f7.jpg",
+    "rating": "5.0"
+  },
+  {
+    "id": "40",
+    "name": "Danau Habema Jayawijaya",
+    "location": "Papua",
+    "category": "Danau",
+    "description": "Danau tertinggi di Indonesia (3.225 mdpl) yang berada tepat di bawah kaki gunung salju Papua.",
+    "image": "https://i.pinimg.com/1200x/b4/bb/a4/b4bba4c444e7131f8d782cff0e85bd25.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "41",
+    "name": "Taman Nasional Wasur Merauke",
+    "location": "Papua",
+    "category": "Alam",
+    "description": "Kawasan sabana luas di Merauke yang kaya satwa endemik kanguru pohon dan rumah semut raksasa.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600",
+    "rating": "4.8"
+  },
+  {
+    "id": "42",
+    "name": "Danau Toba & Samosir",
+    "location": "Medan",
+    "category": "Danau",
+    "description": "Danau vulkanik terbesar di dunia dengan panorama memukau dan kekayaan budaya suku Batak di Pulau Samosir.",
+    "image": "https://i.pinimg.com/736x/45/0e/6e/450e6e212151b3b65b5556292e4fae16.jpg",
+    "rating": "5.0"
+  },
+  {
+    "id": "43",
+    "name": "Air Terjun Sipiso-piso",
+    "location": "Medan",
+    "category": "Alam",
+    "description": "Air terjun megah setinggi 120 meter yang meluncur deras dari perbukitan langsung menghadap Danau Toba.",
+    "image": "https://i.pinimg.com/1200x/0d/c1/c2/0dc1c2ae57ddb72317987ca9266537af.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "44",
+    "name": "Istana Maimun",
+    "location": "Medan",
+    "category": "Budaya",
+    "description": "Istana megah warisan Kesultanan Deli di Kota Medan dengan arsitektur perpaduan Melayu, Timur Tengah, dan Eropa.",
+    "image": "https://i.pinimg.com/1200x/5d/7e/42/5d7e42ed84bb99d70b6d5b4ef0f8ff73.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "45",
+    "name": "Masjid Raya Al-Mashun Medan",
+    "location": "Medan",
+    "category": "Budaya",
+    "description": "Masjid agung bersejarah peninggalan Sultan Deli dengan ornamen marmer Maroko dan kubah segi delapan.",
+    "image": "https://i.pinimg.com/1200x/18/8e/92/188e925480c46e67bd7ee3359cce0f9a.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "46",
+    "name": "Bukit Lawang Leuser",
+    "location": "Medan",
+    "category": "Alam",
+    "description": "Ekowisata hutan hujan tropis di Langkat untuk melihat orangutan Sumatra liar dan susur sungai alam.",
+    "image": "https://i.pinimg.com/736x/0f/51/dc/0f51dc64dcbb8692016e93a335d2cac6.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "47",
+    "name": "Gunung Sibayak Berastagi",
+    "location": "Medan",
+    "category": "Gunung",
+    "description": "Gunung api aktif di dataran tinggi Karo dengan kawah belerang dan pemandangan sunrise yang mempesona.",
+    "image": "https://i.pinimg.com/736x/77/83/21/7783214b9c3650132049aa384d3937f8.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "48",
+    "name": "Tjong A Fie Mansion Medan",
+    "location": "Medan",
+    "category": "Budaya",
+    "description": "Rumah saudagar Tionghoa abad ke-19 di kawasan Kesawan dengan gaya arsitektur Tiongkok dan art deco.",
+    "image": "https://i.pinimg.com/1200x/61/eb/8b/61eb8b28ce85a0aac3d863b062dc8975.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "49",
+    "name": "Bukit Holbung Samosir",
+    "location": "Medan",
+    "category": "Alam",
+    "description": "Perbukitan sabana hijau mirip bukit Teletubbies yang menghadap langsung ke perairan Danau Toba.",
+    "image": "https://i.pinimg.com/736x/79/bf/09/79bf09dd61303a07627f7c33d3fd52b1.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "50",
+    "name": "Taman Alam Lumbini Berastagi",
+    "location": "Medan",
+    "category": "Budaya",
+    "description": "Pagoda replika Shwedagon Pagoda Myanmar tertinggi di Indonesia bercat emas berkilau di Berastagi.",
+    "image": "https://i.pinimg.com/1200x/8a/cc/e9/8acce94048b2cb27a80a111978bd3272.jpg",
+    "rating": "4.8"
+  }
+]
