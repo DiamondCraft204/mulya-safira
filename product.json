@@ -37,7 +37,7 @@
   },
   {
     "id": "5",
-    "name": "Kepulauan Seribu ",
+    "name": "Kepulauan Seribu",
     "location": "Jakarta",
     "category": "Pantai",
     "description": "Gugusan pulau tropis di teluk utara Jakarta dengan pantai pasir putih dan spot snorkeling jernih.",
@@ -78,7 +78,6 @@
     "category": "Alam",
     "description": "Danau kawah vulkanik berwarna putih kehijauan yang eksotis dan berhawa sejuk di selatan Bandung.",
     "image": "https://i.pinimg.com/736x/67/4a/c7/674ac79ec8256f19a55678e905adcebe.jpg",
-    "rating": "4.8"
   },
   {
     "id": "10",
@@ -130,7 +129,7 @@
     "name": "Orchid Forest Cikole",
     "location": "Bandung",
     "category": "Alam",
-    "description": "Hutan pinus berhawa dingin dengan ribuan koleksi anggrek langka dan jembatan gantung gantung estetik.",
+    "description": "Hutan pinus berhawa dingin dengan ribuan koleksi anggrek langka dan jembatan gantung estetik.",
     "image": "https://i.pinimg.com/1200x/57/8a/86/578a86eb72c5a2197a9896409586b659.jpg",
     "rating": "4.8"
   },
@@ -185,7 +184,7 @@
     "location": "Bali",
     "category": "Pantai",
     "description": "Tebing karst berbentuk T-Rex dengan pantai tersembunyi berpasir putih dan air laut biru toska.",
-    "image": "https://i.pinimg.com/1200x/2d/73/2d/2d732d39d450d7f0599324468af8f51b.jpg",
+    "image": "https://i.pinimg.com/1200x/2d/73/2d/2d732d39d450d7f0599324468af8f51b.jpg]",
     "rating": "4.9"
   },
   {
@@ -338,7 +337,7 @@
     "location": "Papua",
     "category": "Alam",
     "description": "Taman laut terbesar di Indonesia tempat menyelam dan berenang bersama hiu paus (whale shark) jinak.",
-    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600",
+    "image": "https://i.pinimg.com/736x/63/bb/17/63bb174a7db00c50c30d5bf0e4cec903.jpg",
     "rating": "4.9"
   },
   {
@@ -365,7 +364,7 @@
     "location": "Papua",
     "category": "Alam",
     "description": "Kawasan sabana luas di Merauke yang kaya satwa endemik kanguru pohon dan rumah semut raksasa.",
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600",
+    "image": "https://i.pinimg.com/736x/63/bb/17/63bb174a7db00c50c30d5bf0e4cec903.jpg]",
     "rating": "4.8"
   },
   {
@@ -448,5 +447,906 @@
     "description": "Pagoda replika Shwedagon Pagoda Myanmar tertinggi di Indonesia bercat emas berkilau di Berastagi.",
     "image": "https://i.pinimg.com/1200x/8a/cc/e9/8acce94048b2cb27a80a111978bd3272.jpg",
     "rating": "4.8"
+  },
+  {
+    "id": "51",
+    "name": "Keraton Yogyakarta",
+    "location": "Yogyakarta",
+    "category": "Budaya",
+    "description": "Kompleks istana Kesultanan Yogyakarta yang menjadi pusat sejarah dan budaya Jawa.",
+    "image": "https://i.pinimg.com/736x/bf/07/7a/bf077ad71aee184c9bff285907b28cbd.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "52",
+    "name": "Candi Prambanan",
+    "location": "Yogyakarta",
+    "category": "Budaya",
+    "description": "Kompleks candi Hindu megah dengan relief dan menara tinggi yang menjadi ikon Yogyakarta.",
+    "image": "https://i.pinimg.com/1200x/0a/e3/3b/0ae33bf6e5a784f620beae368e5f472b.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "53",
+    "name": "HeHa Sky View",
+    "location": "Yogyakarta",
+    "category": "Alam",
+    "description": "Tempat wisata dengan panorama perbukitan dan pemandangan kota Yogyakarta dari ketinggian.",
+    "image": "https://i.pinimg.com/1200x/27/75/cc/2775cc2d8a427f5e97f9de4ab3840b23.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "54",
+    "name": "Pantai Parangtritis",
+    "location": "Yogyakarta",
+    "category": "Pantai",
+    "description": "Pantai selatan yang terkenal dengan hamparan pasir luas, ombak besar, dan panorama matahari terbenam.",
+    "image": "https://i.pinimg.com/736x/9c/c8/42/9cc842773cfb25bc23850963d667023c.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "55",
+    "name": "Goa Pindul",
+    "location": "Yogyakarta",
+    "category": "Alam",
+    "description": "Wisata gua dengan aktivitas cave tubing menyusuri sungai bawah tanah yang menarik.",
+    "image": "https://i.pinimg.com/736x/58/3d/55/583d55a9b7c2bcb93f0b214daa8e8297.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "56",
+    "name": "Hutan Pinus Mangunan",
+    "location": "Yogyakarta",
+    "category": "Alam",
+    "description": "Kawasan hutan pinus di perbukitan dengan udara sejuk dan banyak spot menikmati panorama alam.",
+    "image": "https://i.pinimg.com/736x/7a/5d/d2/7a5dd231b08d6190d5af71cf76298d81.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "57",
+    "name": "Malioboro",
+    "location": "Yogyakarta",
+    "category": "Budaya",
+    "description": "Kawasan ikonik pusat kota yang dipenuhi toko oleh-oleh, kuliner, dan suasana khas Yogyakarta.",
+    "image": "https://i.pinimg.com/1200x/fb/f9/28/fbf928446daf5ec0e67025494a7637e7.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "58",
+    "name": "Taman Sari",
+    "location": "Yogyakarta",
+    "category": "Budaya",
+    "description": "Kompleks bekas taman kerajaan dengan bangunan bersejarah dan lorong bawah tanah yang unik.",
+    "image": "https://i.pinimg.com/736x/60/75/b4/6075b485a6f6cc47246ea54e827cd341.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "59",
+    "name": "Kalibiru",
+    "location": "Yogyakarta",
+    "category": "Alam",
+    "description": "Destinasi perbukitan dengan gardu pandang yang menghadap hutan dan Waduk Sermo.",
+    "image": "https://i.pinimg.com/736x/8a/b6/8c/8ab68c06f866287b270e8a12f51f5872.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "60",
+    "name": "Pantai Timang",
+    "location": "Yogyakarta",
+    "category": "Pantai",
+    "description": "Pantai berbatu dengan tebing karang dan gondola tradisional yang menjadi daya tarik wisata.",
+    "image": "https://i.pinimg.com/736x/82/3a/fb/823afb9bd584f347a35fe2b859dd26a0.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "61",
+    "name": "Candi Borobudur",
+    "location": "Jawa Tengah",
+    "category": "Budaya",
+    "description": "Candi Buddha terbesar di dunia dengan relief sejarah dan panorama perbukitan yang menawan.",
+    "image": "https://i.pinimg.com/1200x/9f/c6/72/9fc672d8bd3ef6ae0d0fdd28401fa319.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "62",
+    "name": "Dieng Plateau",
+    "location": "Jawa Tengah",
+    "category": "Gunung",
+    "description": "Dataran tinggi sejuk dengan telaga, kawah vulkanik, dan pemandangan pegunungan.",
+    "image": "https://i.pinimg.com/736x/10/00/b3/1000b374d2bf39bcc528f524d55ca1c6.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "63",
+    "name": "Lawang Sewu",
+    "location": "Jawa Tengah",
+    "category": "Budaya",
+    "description": "Bangunan bersejarah peninggalan kolonial dengan arsitektur khas dan banyak jendela besar.",
+    "image": "https://i.pinimg.com/736x/0b/a8/02/0ba802a1a3b1bc494be482b878597a90.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "64",
+    "name": "Kota Lama Semarang",
+    "location": "Jawa Tengah",
+    "category": "Budaya",
+    "description": "Kawasan kota tua dengan bangunan kolonial, jalan bersejarah, dan suasana fotogenik.",
+    "image": "https://i.pinimg.com/736x/35/10/a9/3510a99a0e2ecc592b3f12b5846e708d.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "65",
+    "name": "Candi Gedong Songo",
+    "location": "Jawa Tengah",
+    "category": "Budaya",
+    "description": "Kompleks candi Hindu di lereng Gunung Ungaran dengan udara sejuk dan panorama pegunungan.",
+    "image": "https://i.pinimg.com/736x/bf/c5/9e/bfc59e87ce10d3647ad9516cc44b74c4.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "66",
+    "name": "Umbul Ponggok",
+    "location": "Jawa Tengah",
+    "category": "Alam",
+    "description": "Mata air jernih yang populer untuk berenang dan menikmati aktivitas bawah air.",
+    "image": "https://i.pinimg.com/736x/fe/c9/cd/fec9cdf0b331f2df79b7da3726106476.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "67",
+    "name": "Pantai Menganti",
+    "location": "Jawa Tengah",
+    "category": "Pantai",
+    "description": "Pantai indah dengan pasir putih, tebing hijau, dan panorama laut selatan yang luas.",
+    "image": "https://i.pinimg.com/736x/0e/bc/ed/0ebcedb6de694d8f147b96f716b3160d.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "68",
+    "name": "Karimunjawa",
+    "location": "Jawa Tengah",
+    "category": "Pantai",
+    "description": "Kepulauan tropis dengan laut jernih, pasir putih, terumbu karang, dan pulau-pulau kecil.",
+    "image": "https://i.pinimg.com/1200x/a8/db/fe/a8dbfe6d814df295c46c3544acbf0843.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "69",
+    "name": "Grojogan Sewu",
+    "location": "Jawa Tengah",
+    "category": "Alam",
+    "description": "Air terjun tinggi di kawasan Tawangmangu yang dikelilingi hutan hijau dan udara sejuk.",
+    "image": "https://i.pinimg.com/736x/e5/63/fc/e563fc2bfc0b0afc601f91e7a9a2d3ef.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "70",
+    "name": "Baturaden",
+    "location": "Jawa Tengah",
+    "category": "Alam",
+    "description": "Kawasan wisata di lereng Gunung Slamet dengan hutan, air terjun, dan pemandian air panas.",
+    "image": "https://i.pinimg.com/736x/89/4b/06/894b0669fbf426ec524107786de9eec6.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "71",
+    "name": "Museum Kereta Api Ambarawa",
+    "location": "Jawa Tengah",
+    "category": "Budaya",
+    "description": "Museum kereta api bersejarah yang menyimpan lokomotif tua dan perjalanan wisata dengan kereta kuno.",
+    "image": "https://i.pinimg.com/736x/ca/0a/5f/ca0a5f27d21d070464defa532dd29baf.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "72",
+    "name": "Telaga Warna Dieng",
+    "location": "Jawa Tengah",
+    "category": "Danau",
+    "description": "Telaga di dataran tinggi Dieng yang memiliki warna air berubah akibat kandungan mineral.",
+    "image": "https://i.pinimg.com/736x/13/4d/ae/134dae263fb2e70252056e3c48b0adf4.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "73",
+    "name": "Pantai Nglambor",
+    "location": "Jawa Tengah",
+    "category": "Pantai",
+    "description": "Pantai berair jernih dengan formasi karang yang membuatnya cocok untuk snorkeling.",
+    "image": "https://i.pinimg.com/736x/2a/6c/96/2a6c96150926d1a29be853bf79df5096.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "74",
+    "name": "Candi Sukuh",
+    "location": "Jawa Tengah",
+    "category": "Budaya",
+    "description": "Candi unik di lereng Gunung Lawu dengan bentuk arsitektur yang berbeda dari candi Jawa lainnya.",
+    "image": "https://i.pinimg.com/1200x/ff/9d/eb/ff9deb2f23b7b15820586cc0aae642e9.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "75",
+    "name": "Gunung Merbabu",
+    "location": "Jawa Tengah",
+    "category": "Gunung",
+    "description": "Gunung dengan jalur pendakian dan padang sabana yang menawarkan panorama pegunungan luas.",
+    "image": "https://i.pinimg.com/736x/d2/b7/11/d2b71186cf0b28c1322b81f7e3789319.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "76",
+    "name": "Gunung Bromo",
+    "location": "Jawa Timur",
+    "category": "Gunung",
+    "description": "Gunung berapi ikonik dengan lautan pasir dan panorama matahari terbit yang spektakuler.",
+    "image": "https://i.pinimg.com/1200x/66/06/a3/6606a330b68dea492f2bc4a0b0bcd77e.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "77",
+    "name": "Kawah Ijen",
+    "location": "Jawa Timur",
+    "category": "Gunung",
+    "description": "Kawasan vulkanik terkenal dengan danau kawah berwarna toska dan fenomena api biru.",
+    "image": "https://i.pinimg.com/1200x/08/c2/cd/08c2cdf0c19dff64f3b9f19f9c904cc9.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "78",
+    "name": "Tumpak Sewu",
+    "location": "Jawa Timur",
+    "category": "Alam",
+    "description": "Air terjun bertingkat megah yang dikelilingi tebing hijau di Lumajang.",
+    "image": "https://i.pinimg.com/736x/e0/5d/25/e05d25f4190275b49591ef156bfc6ae1.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "79",
+    "name": "Jatim Park 2",
+    "location": "Jawa Timur",
+    "category": "Alam",
+    "description": "Taman wisata edukasi keluarga dengan kebun binatang modern dan berbagai koleksi satwa.",
+    "image": "https://i.pinimg.com/1200x/c4/55/be/c455be8b1064a84bc9f3d081608bfb3d.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "80",
+    "name": "Museum Angkut",
+    "location": "Jawa Timur",
+    "category": "Budaya",
+    "description": "Museum tematik yang menampilkan koleksi kendaraan dari berbagai zaman dan negara.",
+    "image": "https://i.pinimg.com/1200x/3e/c1/2d/3ec12da7d4e2b0a87ec4423359383b90.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "81",
+    "name": "Pantai Papuma",
+    "location": "Jawa Timur",
+    "category": "Pantai",
+    "description": "Pantai dengan pasir putih, batu karang, dan bukit hijau di pesisir Jember.",
+    "image": "https://i.pinimg.com/1200x/40/70/f4/4070f4604a5080542ca56c8c2e9c347b.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "82",
+    "name": "Air Terjun Madakaripura",
+    "location": "Jawa Timur",
+    "category": "Alam",
+    "description": "Air terjun tinggi yang berada di lembah tebing batu dan suasana hutan yang sejuk.",
+    "image": "https://i.pinimg.com/736x/89/5f/93/895f931d13bc07fd8003b401f019b734.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "83",
+    "name": "Pantai Klayar",
+    "location": "Jawa Timur",
+    "category": "Pantai",
+    "description": "Pantai dengan pasir putih, batu karang unik, dan ombak laut selatan yang kuat.",
+    "image": "https://i.pinimg.com/736x/59/3d/50/593d50c462691a3831970a126d78ce7a.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "84",
+    "name": "Goa Gong Pacitan",
+    "location": "Jawa Timur",
+    "category": "Alam",
+    "description": "Gua dengan stalaktit dan stalagmit indah yang menghasilkan gema seperti suara gong.",
+    "image": "https://i.pinimg.com/736x/73/78/f2/7378f28d0f10bf8924317ea1207ac91a.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "85",
+    "name": "Alun-Alun Kota Malang",
+    "location": "Jawa Timur",
+    "category": "Budaya",
+    "description": "Ruang publik ikonik di pusat Malang yang dikelilingi bangunan bersejarah dan kuliner.",
+    "image": "https://i.pinimg.com/1200x/f2/a3/aa/f2a3aad08421aee463e529c21b7acc30.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "86",
+    "name": "Coban Rondo",
+    "location": "Jawa Timur",
+    "category": "Alam",
+    "description": "Air terjun di kawasan pegunungan dengan suasana hutan yang asri dan udara sejuk.",
+    "image": "https://i.pinimg.com/1200x/c9/7a/e9/c97ae9a530c1b0353b202fda03035a5c.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "87",
+    "name": "Taman Nasional Baluran",
+    "location": "Jawa Timur",
+    "category": "Alam",
+    "description": "Kawasan konservasi dengan sabana luas yang sering disebut sebagai Africa van Java.",
+    "image": "https://i.pinimg.com/1200x/42/e1/2b/42e12bb7f470edb4a8f23aff11f6aa01.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "88",
+    "name": "Pantai Tiga Warna",
+    "location": "Jawa Timur",
+    "category": "Pantai",
+    "description": "Pantai konservasi dengan gradasi warna laut yang indah dan aktivitas snorkeling.",
+    "image": "https://i.pinimg.com/1200x/52/43/4d/52434db5b7a3cde90eddb854e69e555f.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "89",
+    "name": "Gunung Semeru",
+    "location": "Jawa Timur",
+    "category": "Gunung",
+    "description": "Gunung tertinggi di Pulau Jawa dengan panorama pendakian yang terkenal.",
+    "image": "https://i.pinimg.com/736x/f2/64/41/f2644141d8b2a9c4d996babf7106a303.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "90",
+    "name": "Ranu Kumbolo",
+    "location": "Jawa Timur",
+    "category": "Danau",
+    "description": "Danau pegunungan yang menjadi salah satu titik populer dalam perjalanan menuju Semeru.",
+    "image": "https://i.pinimg.com/736x/fd/13/38/fd1338a4562d1305a0b3cad268ef29c6.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "91",
+    "name": "Taman Nasional Ujung Kulon",
+    "location": "Banten",
+    "category": "Alam",
+    "description": "Kawasan konservasi yang menjadi habitat badak Jawa dan memiliki hutan serta pantai alami.",
+    "image": "https://i.pinimg.com/736x/d7/bc/72/d7bc72dc2829da2081ee0d232538ffc4.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "92",
+    "name": "Pantai Anyer",
+    "location": "Banten",
+    "category": "Pantai",
+    "description": "Kawasan pantai populer dengan pasir, pemandangan laut, dan berbagai aktivitas rekreasi.",
+    "image": "https://i.pinimg.com/1200x/1e/df/75/1edf7524d01f6f432bab47c77cc2d71d.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "93",
+    "name": "Pulau Sangiang",
+    "location": "Banten",
+    "category": "Pantai",
+    "description": "Pulau kecil dengan pantai, terumbu karang, dan panorama laut yang cocok untuk snorkeling.",
+    "image": "https://i.pinimg.com/736x/eb/e8/f9/ebe8f9deba3f945d0a0e0f9ae5b6906d.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "94",
+    "name": "Pantai Sawarna",
+    "location": "Banten",
+    "category": "Pantai",
+    "description": "Kawasan pesisir dengan pasir putih, tebing karang, dan ombak yang menarik untuk wisata alam.",
+    "image": "https://i.pinimg.com/736x/87/08/2f/87082fb2b2637046f2f414ed88af03be.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "95",
+    "name": "Curug Leuwi Hejo",
+    "location": "Banten",
+    "category": "Alam",
+    "description": "Air terjun dengan kolam alami berwarna hijau jernih di tengah kawasan perbukitan.",
+    "image": "https://i.pinimg.com/1200x/63/79/a7/6379a756afc489aa51a9495681a2815a.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "96",
+    "name": "Masjid Agung Banten",
+    "location": "Banten",
+    "category": "Budaya",
+    "description": "Masjid bersejarah peninggalan Kesultanan Banten dengan menara dan arsitektur khas.",
+    "image": "https://i.pinimg.com/1200x/79/3a/08/793a08e5f6ffa03b17c87dc16501212f.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "97",
+    "name": "Pulau Peucang",
+    "location": "Banten",
+    "category": "Pantai",
+    "description": "Pulau tropis di kawasan Ujung Kulon dengan pantai putih dan hutan yang masih alami.",
+    "image": "https://i.pinimg.com/1200x/e4/4b/b2/e44bb2cb8bfa7eb4efbe1ab03c362469.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "98",
+    "name": "Gunung Krakatau",
+    "location": "Banten",
+    "category": "Gunung",
+    "description": "Gunung vulkanik di Selat Sunda yang memiliki sejarah letusan dan panorama laut spektakuler.",
+    "image": "https://i.pinimg.com/736x/2c/38/4c/2c384c35f9c241b83d25d4d49984bb2e.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "99",
+    "name": "Pantai Tanjung Lesung",
+    "location": "Banten",
+    "category": "Pantai",
+    "description": "Kawasan pantai dengan pasir putih dan laut tenang yang cocok untuk rekreasi keluarga.",
+    "image": "https://i.pinimg.com/736x/ef/b1/1f/efb11f37d2151bde1ce73031ac3412a3.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "100",
+    "name": "Kampung Baduy",
+    "location": "Banten",
+    "category": "Budaya",
+    "description": "Kawasan masyarakat adat dengan tradisi Sunda yang masih kuat dan lingkungan pedesaan alami.",
+    "image": "https://i.pinimg.com/1200x/8d/be/22/8dbe222541c356e40997f7a2515f172c.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "101",
+    "name": "Pantai Sanur",
+    "location": "Bali",
+    "category": "Pantai",
+    "description": "Pantai dengan suasana tenang dan panorama matahari terbit yang terkenal di Bali.",
+    "image": "https://i.pinimg.com/736x/d6/5c/a6/d65ca63c0c1926f3858f289d426d3c2a.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "102",
+    "name": "Pantai Nusa Dua",
+    "location": "Bali",
+    "category": "Pantai",
+    "description": "Kawasan pantai berpasir putih dengan air laut jernih dan fasilitas wisata yang lengkap.",
+    "image": "https://i.pinimg.com/1200x/8e/0f/74/8e0f74bc49a0af919949933f0d2b2d3a.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "103",
+    "name": "Monkey Forest Ubud",
+    "location": "Bali",
+    "category": "Alam",
+    "description": "Hutan sakral di Ubud yang menjadi habitat ratusan monyet dan dikelilingi pepohonan tropis.",
+    "image": "https://i.pinimg.com/736x/c6/d9/db/c6d9db5bf0f6777768d707916ac784c6.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "104",
+    "name": "Pura Besakih",
+    "location": "Bali",
+    "category": "Budaya",
+    "description": "Kompleks pura terbesar di Bali yang berada di lereng Gunung Agung.",
+    "image": "https://i.pinimg.com/1200x/69/a8/ec/69a8ecbb60f924414e4f6a84e7836339.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "105",
+    "name": "Air Terjun Tegenungan",
+    "location": "Bali",
+    "category": "Alam",
+    "description": "Air terjun populer dengan kolam alami dan kawasan hijau yang dekat dengan Ubud.",
+    "image": "https://i.pinimg.com/736x/6f/20/ee/6f20ee4bc6373444dce09912cb965f9c.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "106",
+    "name": "Pantai Pandawa",
+    "location": "Bali",
+    "category": "Pantai",
+    "description": "Pantai pasir putih yang dikelilingi tebing kapur besar dan memiliki laut biru jernih.",
+    "image": "https://i.pinimg.com/736x/ab/6d/95/ab6d955685f687e014eb9b8cf953fc22.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "107",
+    "name": "Tirta Empul",
+    "location": "Bali",
+    "category": "Budaya",
+    "description": "Pura dengan sumber mata air suci yang menjadi salah satu tempat penting dalam tradisi Bali.",
+    "image": "https://i.pinimg.com/736x/03/a0/b8/03a0b82c2f07e4bdfd10db7db3b899ed.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "108",
+    "name": "Campuhan Ridge Walk",
+    "location": "Bali",
+    "category": "Alam",
+    "description": "Jalur berjalan kaki di antara perbukitan hijau dengan suasana tenang khas Ubud.",
+    "image": "https://i.pinimg.com/736x/1b/ca/3e/1bca3ed55215ad45caff4644a5752bf5.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "109",
+    "name": "Pantai Jimbaran",
+    "location": "Bali",
+    "category": "Pantai",
+    "description": "Pantai populer dengan panorama sunset dan kawasan kuliner seafood di tepi laut.",
+    "image": "https://i.pinimg.com/736x/81/7e/27/817e27b83eab72949bbf5f78524527ca.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "110",
+    "name": "Desa Wisata Munduk",
+    "location": "Bali",
+    "category": "Alam",
+    "description": "Desa pegunungan yang menawarkan perkebunan, air terjun, dan suasana pedesaan yang sejuk.",
+    "image": "https://i.pinimg.com/736x/b3/5f/51/b35f513df7c39c4d9785bb40c544bb69.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "111",
+    "name": "Pantai Tanjung Aan",
+    "location": "Nusa Tenggara Barat",
+    "category": "Pantai",
+    "description": "Pantai Lombok dengan pasir putih dan air laut biru jernih yang indah.",
+    "image": "https://i.pinimg.com/736x/8c/eb/57/8ceb573ff18786d67bd0ea62a1b25c7a.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "112",
+    "name": "Bukit Merese",
+    "location": "Nusa Tenggara Barat",
+    "category": "Alam",
+    "description": "Bukit hijau di Lombok dengan panorama garis pantai dan sunset yang luas.",
+    "image": "https://i.pinimg.com/736x/64/eb/3d/64eb3ddbbfd910a5ff820ed31782cb60.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "113",
+    "name": "Gili Trawangan",
+    "location": "Nusa Tenggara Barat",
+    "category": "Pantai",
+    "description": "Pulau tropis terkenal dengan laut jernih, snorkeling, dan suasana liburan yang santai.",
+    "image": "https://i.pinimg.com/1200x/e5/7e/b9/e57eb9f1076065563956b68ec3f8ef07.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "114",
+    "name": "Gili Meno",
+    "location": "Nusa Tenggara Barat",
+    "category": "Pantai",
+    "description": "Pulau kecil yang tenang dengan pantai putih dan kehidupan bawah laut yang menarik.",
+    "image": "https://i.pinimg.com/736x/88/6b/f1/886bf166bad7f70fef8b6f09a5d4cc02.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "115",
+    "name": "Gunung Rinjani",
+    "location": "Nusa Tenggara Barat",
+    "category": "Gunung",
+    "description": "Gunung berapi dengan Danau Segara Anak dan panorama alam yang spektakuler.",
+    "image": "https://i.pinimg.com/1200x/ee/d2/f8/eed2f8a7d43ab90d25a6508e8f9cb6b5.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "116",
+    "name": "Air Terjun Sendang Gile",
+    "location": "Nusa Tenggara Barat",
+    "category": "Alam",
+    "description": "Air terjun di kaki Gunung Rinjani dengan suasana hutan tropis yang sejuk.",
+    "image": "https://i.pinimg.com/736x/77/c5/11/77c511f04cd5ff2c9c4afa5c90dbf09a.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "117",
+    "name": "Pantai Pink Lombok",
+    "location": "Nusa Tenggara Barat",
+    "category": "Pantai",
+    "description": "Pantai dengan pasir berwarna merah muda dan air laut jernih di pesisir Lombok Timur.",
+    "image": "https://i.pinimg.com/736x/89/88/85/898885997a1f3b34a24f4fbf0d2fe0a5.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "118",
+    "name": "Desa Sade",
+    "location": "Nusa Tenggara Barat",
+    "category": "Budaya",
+    "description": "Desa tradisional suku Sasak yang mempertahankan rumah dan budaya lokal Lombok.",
+    "image": "https://i.pinimg.com/1200x/a9/14/88/a91488ebdc40551b0dfda4e78c9fe837.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "119",
+    "name": "Sembalun",
+    "location": "Nusa Tenggara Barat",
+    "category": "Gunung",
+    "description": "Lembah pegunungan di kaki Rinjani dengan hamparan sawah dan perbukitan hijau.",
+    "image": "https://i.pinimg.com/736x/26/3e/61/263e619d04fe982954eb5957b445f640.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "120",
+    "name": "Gili Air",
+    "location": "Nusa Tenggara Barat",
+    "category": "Pantai",
+    "description": "Pulau tropis dengan pantai putih, snorkeling, dan suasana yang lebih tenang.",
+    "image": "https://i.pinimg.com/736x/54/c1/54/54c1547629b76d0828691504c892fdf2.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "121",
+    "name": "Taman Nasional Komodo",
+    "location": "Nusa Tenggara Timur",
+    "category": "Alam",
+    "description": "Kawasan konservasi yang menjadi habitat komodo dan memiliki lanskap pulau yang unik.",
+    "image": "https://i.pinimg.com/736x/f1/cb/9d/f1cb9d1dbd53aed1e6e38e2531924d04.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "122",
+    "name": "Pink Beach Komodo",
+    "location": "Nusa Tenggara Timur",
+    "category": "Pantai",
+    "description": "Pantai dengan pasir merah muda dan air laut jernih di kawasan Taman Nasional Komodo.",
+    "image": "https://i.pinimg.com/1200x/df/bf/3b/dfbf3bc714551bd3cc54d466398d4863.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "123",
+    "name": "Pulau Padar",
+    "location": "Nusa Tenggara Timur",
+    "category": "Alam",
+    "description": "Pulau dengan bukit ikonik dan panorama tiga teluk yang sangat indah dari puncaknya.",
+    "image": "https://i.pinimg.com/736x/ce/ef/a3/ceefa3f335719d5c747da3e2850ab285.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "124",
+    "name": "Danau Kelimutu",
+    "location": "Nusa Tenggara Timur",
+    "category": "Danau",
+    "description": "Tiga danau kawah dengan warna air berbeda di puncak Gunung Kelimutu.",
+    "image": "https://i.pinimg.com/736x/9d/80/20/9d8020819ddc94f666db5cc8df076e91.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "125",
+    "name": "Goa Rangko",
+    "location": "Nusa Tenggara Timur",
+    "category": "Alam",
+    "description": "Gua dengan kolam air asin berwarna biru yang menarik untuk dijelajahi.",
+    "image": "https://i.pinimg.com/1200x/5d/67/9f/5d679fb890cbd0a9e7744ff4f9ee18c4.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "126",
+    "name": "Pantai Lasiana",
+    "location": "Nusa Tenggara Timur",
+    "category": "Pantai",
+    "description": "Pantai dekat Kupang dengan pasir putih dan deretan pohon lontar yang khas.",
+    "image": "https://i.pinimg.com/736x/9b/e5/d1/9be5d1b6424ccbac02321f9ada79ef22.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "127",
+    "name": "Desa Wae Rebo",
+    "location": "Nusa Tenggara Timur",
+    "category": "Budaya",
+    "description": "Desa tradisional di pegunungan dengan rumah adat Mbaru Niang yang unik.",
+    "image": "https://i.pinimg.com/1200x/50/8d/43/508d434c25d5d0537058881c3eafc082.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "128",
+    "name": "Pulau Kanawa",
+    "location": "Nusa Tenggara Timur",
+    "category": "Pantai",
+    "description": "Pulau kecil dengan pasir putih dan terumbu karang yang cocok untuk snorkeling.",
+    "image": "https://i.pinimg.com/736x/e2/48/0e/e2480ee552942930a959f092dadf656f.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "129",
+    "name": "Bukit Sylvia",
+    "location": "Nusa Tenggara Timur",
+    "category": "Alam",
+    "description": "Perbukitan dekat Labuan Bajo dengan panorama laut dan gugusan pulau.",
+    "image": "https://i.pinimg.com/736x/d4/3e/54/d43e541b03450db9bfef6c31dbf975b8.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "130",
+    "name": "Situ Bagendit",
+    "location": "Jawa Barat",
+    "category": "Danau",
+    "description": "Danau wisata di Garut dengan pemandangan perbukitan dan aktivitas perahu.",
+    "image": "https://i.pinimg.com/736x/c9/02/24/c9022408f28cb637cab8a02ad5d53ae9.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "131",
+    "name": "Pantai Losari",
+    "location": "Sulawesi Selatan",
+    "category": "Pantai",
+    "description": "Ikon Kota Makassar dengan panorama laut, sunset, dan suasana kota yang ramai.",
+    "image": "https://i.pinimg.com/1200x/96/7b/11/967b1175e515a8d1310d92cef5baa1e0.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "132",
+    "name": "Taman Nasional Bantimurung Bulusaraung",
+    "location": "Sulawesi Selatan",
+    "category": "Alam",
+    "description": "Kawasan karst dengan air terjun, gua, dan keanekaragaman kupu-kupu.",
+    "image": "https://i.pinimg.com/736x/3f/b6/4c/3fb64c77b5adc94f2b8c8150399ecbfa.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "133",
+    "name": "Rammang-Rammang",
+    "location": "Sulawesi Selatan",
+    "category": "Alam",
+    "description": "Kawasan karst spektakuler dengan sungai, sawah, dan gugusan pegunungan batu.",
+    "image": "https://i.pinimg.com/1200x/fe/1d/3d/fe1d3d746a1133df66f1e1775184c6cf.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "134",
+    "name": "Fort Rotterdam",
+    "location": "Sulawesi Selatan",
+    "category": "Budaya",
+    "description": "Benteng bersejarah peninggalan Kesultanan Gowa-Tallo yang menjadi ikon sejarah Makassar.",
+    "image": "https://i.pinimg.com/1200x/02/bb/b3/02bbb3a122c36e28e803b72f3aa97cce.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "135",
+    "name": "Tana Toraja",
+    "location": "Sulawesi Selatan",
+    "category": "Budaya",
+    "description": "Wilayah budaya dengan rumah adat Tongkonan, tradisi unik, dan lanskap pegunungan.",
+    "image": "https://i.pinimg.com/1200x/2b/1e/5e/2b1e5e33e22bad79add2260f4307aa47.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "136",
+    "name": "Kete Kesu",
+    "location": "Sulawesi Selatan",
+    "category": "Budaya",
+    "description": "Desa adat Toraja dengan rumah Tongkonan dan kawasan makam batu yang bersejarah.",
+    "image": "https://i.pinimg.com/736x/5b/a5/7a/5ba57a91e141095754c2031a141dd7c5.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "137",
+    "name": "Pantai Tanjung Bira",
+    "location": "Sulawesi Selatan",
+    "category": "Pantai",
+    "description": "Pantai dengan pasir putih halus dan air laut biru jernih di Bulukumba.",
+    "image": "https://i.pinimg.com/1200x/85/9f/9e/859f9ef6468891863e666a0e0f9af4ed.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "138",
+    "name": "Pulau Samalona",
+    "location": "Sulawesi Selatan",
+    "category": "Pantai",
+    "description": "Pulau kecil dekat Makassar dengan pantai putih dan spot snorkeling.",
+    "image": "https://i.pinimg.com/736x/c3/e4/68/c3e46844172df1f7f97c51ffda1c24dc.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "139",
+    "name": "Leang-Leang",
+    "location": "Sulawesi Selatan",
+    "category": "Budaya",
+    "description": "Kawasan karst dengan gua prasejarah dan lukisan tangan manusia purba.",
+    "image": "https://i.pinimg.com/736x/ef/5c/74/ef5c74fda836a11442f5b9568dcbce8b.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "140",
+    "name": "Air Terjun Takapala",
+    "location": "Sulawesi Selatan",
+    "category": "Alam",
+    "description": "Air terjun tinggi di kawasan Malino yang dikelilingi hutan hijau dan pegunungan.",
+    "image": "https://i.pinimg.com/736x/36/02/e4/3602e44ff05b00cb7840a0eeae1be24d.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "141",
+    "name": "Taman Nasional Bunaken",
+    "location": "Sulawesi Utara",
+    "category": "Pantai",
+    "description": "Taman laut terkenal dengan terumbu karang dan keanekaragaman biota bawah laut.",
+    "image": "https://i.pinimg.com/736x/c2/51/72/c25172103a7e4a5ff157639f75434b45.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "142",
+    "name": "Kepulauan Derawan",
+    "location": "Kalimantan Timur",
+    "category": "Pantai",
+    "description": "Kepulauan tropis dengan laut jernih, penyu, dan kehidupan bawah laut yang kaya.",
+    "image": "https://i.pinimg.com/736x/f1/0b/22/f10b22bd0567fe66aa8ce9cce75c9355.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "143",
+    "name": "Goa Haji Mangku",
+    "location": "Kalimantan Timur",
+    "category": "Alam",
+    "description": "Gua dengan kolam air biru yang tersembunyi di Pulau Maratua.",
+    "image": "https://i.pinimg.com/736x/b8/6f/5e/b86f5e3c64f4989c320fc5d386706ff0.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "144",
+    "name": "Bukit Bangkirai",
+    "location": "Kalimantan Timur",
+    "category": "Alam",
+    "description": "Hutan hujan tropis dengan jembatan kanopi yang membentang di antara pepohonan tinggi.",
+    "image": "https://i.pinimg.com/736x/9a/ed/f6/9aedf617e6dd790ea56cdc2bdd68389d.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "145",
+    "name": "Pantai Pasir Panjang",
+    "location": "Kalimantan Barat",
+    "category": "Pantai",
+    "description": "Pantai luas di Singkawang dengan pasir panjang dan panorama laut yang indah.",
+    "image": "https://i.pinimg.com/736x/4b/5a/11/4b5a113b94f15264ef800da22ad20b59.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": "146",
+    "name": "Pantai Ora",
+    "location": "Maluku",
+    "category": "Pantai",
+    "description": "Pantai terkenal dengan air laut sangat jernih, pasir putih, dan latar perbukitan hijau.",
+    "image": "https://i.pinimg.com/736x/06/10/3f/06103f1e388a7a7d205f0eeba13ac819.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "147",
+    "name": "Pulau Banda Neira",
+    "location": "Maluku",
+    "category": "Budaya",
+    "description": "Pulau bersejarah dengan benteng kolonial, perkebunan rempah, dan panorama laut.",
+    "image": "https://i.pinimg.com/736x/c9/bc/55/c9bc554d766f51757ffef95d08c1ee06.jpg",
+    "rating": "4.8"
+  },
+  {
+    "id": "148",
+    "name": "Pulau Pombo",
+    "location": "Maluku",
+    "category": "Pantai",
+    "description": "Pulau kecil dengan pantai putih dan perairan jernih yang cocok untuk snorkeling.",
+    "image": "https://i.pinimg.com/1200x/b7/69/14/b76914a07ffe64091bb199f5ded09ef3.jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "149",
+    "name": "Pulau Misool",
+    "location": "Papua Barat",
+    "category": "Pantai",
+    "description": "Pulau di Raja Ampat dengan laguna, karst, dan kehidupan bawah laut yang kaya.",
+    "image": "https://i.pinimg.com/736x/73/e7/6c/73e76cd6abd2fc4105cd8711c185a024.jpg",
+    "rating": "4.9"
+  },
+  {
+    "id": "150",
+    "name": "Pantai Pangandaran",
+    "location": "Jawa Barat",
+    "category": "Pantai",
+    "description": "Pantai populer dengan pasir luas, ombak, dan kawasan rekreasi yang ramai.",
+    "image": "https://i.pinimg.com/736x/67/0c/37/670c373f639e84f4b0f8a53b4d6c0241.jpg",
+    "rating": "4.7"
   }
 ]
+
